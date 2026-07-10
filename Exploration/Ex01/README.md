@@ -9,10 +9,12 @@
           
 [ 당뇨병 ]       
 -> 데이터준비 , 데이터셋 분리 등 문제에서 요구하는 코드가 첨부되어 데이터시각화 / MSE 손실함수값 3000 이하를 달성하였습니다.
+
 <img width="737" height="748" alt="image" src="https://github.com/user-attachments/assets/03c06555-287e-4c77-b43d-7575bcd2f554" />
 
 [ 자전거 ]
 → 문제에서 요구하는 RMSE값 150 이하를 달성하였고, 예측결과 시각화도 모두 진행되었습니다.
+
 <img width="551" height="236" alt="image" src="https://github.com/user-attachments/assets/be6e0bf4-e1ce-415a-8187-90ffe6434e3e" />
 
     
@@ -28,10 +30,12 @@
 → 해당 코드 블럭에 주석이 달려있어 코드의 기능과 존재 이유를 확인을 하였고, 주석을 본 후 코드 이해가 잘 되었습니다.
 
 특히 사진과 같은 주석을 보고 손실함수와 기울기 함수를 잘 정의했다고 봅니다. 사진과 같은 부분을 보면 가중치와 편향을 업데이트하기 위한 기울기 계산 과정이 코드로 잘 구현되어 있습니다.이 부분에서 정의 되어 있는 손실함수와 기울기 함수를 잘 정의해야지만, 해당 프로젝트의 평가 기준인 MSE 손실함수값 3000 이하를 달성할 수 있기 때문에 중요한 부분이 잘 작성되었습니다.
+
 <img width="577" height="482" alt="image" src="https://github.com/user-attachments/assets/901e17d8-ee08-4cd5-a40c-0a71bb4b74f7" />
 
 [ 자전거 ]
 → 독립변수와 종속변수의 상관관계는 회귀모델에서 중요하기 때문에 temp와 atemp의 상관관계를 확인하는 부분이 가장 핵심이라고 보고 잘 이해된 것 같습니다. 
+
 <img width="762" height="707" alt="image" src="https://github.com/user-attachments/assets/886f6114-727d-4722-a89d-d619d6bf6d98" />
 
 
@@ -61,10 +65,12 @@
           
 [ 당뇨병 ]
 →  파이썬 스타일 가이드를 잘 준수하였고, 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/ 모듈화하여 잘 작성되었습니다.데이터 처리와 모델 학습 과정이 순서대로 구성되어 있어 전체적인 흐름을 따라가기 쉬웠습니다.
+
 <img width="462" height="171" alt="image" src="https://github.com/user-attachments/assets/49a73055-e008-4585-9a29-569094b1a74d" />
 
 [ 자전거 ]
 → 해당 부분을 파이썬 스타일 가이드를  준수하면서 함수화/모듈화하여 잘 작성되었다고 생각합니다.
+
 <img width="500" height="241" alt="image" src="https://github.com/user-attachments/assets/49b37f22-2a10-4b1c-9afd-d1b724382a1b" />
 
 
