@@ -35,6 +35,6 @@ AIFFEL_quest_rs
      .
      .
      .
-     └── Deep07
+     └── Deep09
         ├── .ipynb
         └── README.md
