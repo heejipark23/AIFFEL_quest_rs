@@ -1,0 +1,5 @@
+# 대용량 데이터셋 (torchvision download=True 등으로 재생성 가능)
+data/
+
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
