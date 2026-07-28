@@ -3,3 +3,7 @@ data/
 
 # Jupyter Notebook 체크포인트
 .ipynb_checkpoints/
+
+# 모델 가중치 체크포인트 (대용량 .pth, 재학습으로 재생성 가능)
+checkpoints/
+*.pth
