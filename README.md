@@ -10,31 +10,77 @@ AIFFEL_quest_rs
 │   ├── Quest01
 │   │   ├── .ipynb
 │   │   └── README.md
-.		.
-.		.
-.		.
-│   └── Quest08
+│   ├── Quest02
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest03
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest04
+│   │   ├── .ipynb
+│   │   └── README.md
+│   └── Quest05
 │       ├── .ipynb
 │       └── README.md
 .
 .
 .
 ├── Exploration
-│    ├── Ex01
-│    .
-│    .
-│    .
-│    └── Ex07
+│   ├── Ex01
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Ex02
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Ex03
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Ex04
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Ex05
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Ex06
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Ex07
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Ex08
+│   │   ├── .ipynb
+│   │   └── README.md
+│   └── Ex09
 │       ├── .ipynb
 │       └── README.md
 .
 .
 .
 └── GoingDeeper
-     ├── Deep01
-     .
-     .
-     .
+    ├── Deep01
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Deep02
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Deep03
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Deep04
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Deep05
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Deep06
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Deep07
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Deep08
+    │   ├── .ipynb
+    │   └── README.md
      └── Deep09
         ├── .ipynb
         └── README.md
