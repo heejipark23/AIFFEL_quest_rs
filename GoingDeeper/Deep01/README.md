@@ -15,17 +15,18 @@
 
 
 
-      - 조건1) visualize_cam_on_image로 CAM을 원본 이미지에 히트맵 합성하고 get_bbox로 바운딩박스 추출하여 visualize_both_bbox_on_image로 정답 박스와 비교 시각화하고 get_iou로 IoU 계산하는 과정을 거치면서 적절히 수행하였다.
+        (조건1) visualize_cam_on_image로 CAM을 원본 이미지에 히트맵 합성하고 get_bbox로 바운딩박스 추출하여 visualize_both_bbox_on_image로 정답 박스와 비교 시각화하고 get_iou로 IoU 계산하는 과정을 거치면서 적절히 수행하였다.
 
 <img width="412" height="506" alt="image" src="https://github.com/user-attachments/assets/bc7b0784-1271-4a73-8183-c7a5f03125f8" />
 
-       - 조건2) 분류근거를 설명 가능한 CAM 획득하였다
+       -(조건2) 분류근거를 설명 가능한 CAM 획득하였다
          
-         <img width="785" height="396" alt="image" src="https://github.com/user-attachments/assets/48b297d8-6198-4450-963d-94b4cfd1f523" />
+        <img width="502" height="150" alt="image" src="https://github.com/user-attachments/assets/059c8a3e-1c2f-4852-a233-9a946df88a4a" />
 
-       - 조건3) models.resnet50( )의 fc를 nn.Linear로 교체하는 과정을 거치는 등 이러한 과정을 통해 CAM을 얻기 위한 기본모델 구성과 학습이 잘 되어있다.
 
-         <img width="516" height="112" alt="image" src="https://github.com/user-attachments/assets/426d0c30-146b-44b0-a364-407771834f58" />
+       -(조건3) models.resnet50( )의 fc를 nn.Linear로 교체하는 과정을 거치는 등 이러한 과정을 통해 CAM을 얻기 위한 기본모델 구성과 학습이 잘 되어있다.
+
+         
 
          
     
