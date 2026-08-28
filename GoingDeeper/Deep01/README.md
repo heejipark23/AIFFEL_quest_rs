@@ -14,6 +14,7 @@
       - 조건3) CAM을 얻기 위한 기본모델의 구성과 학습이 정상 진행되었는가?
 
 
+
       - 조건1) visualize_cam_on_image로 CAM을 원본 이미지에 히트맵 합성하고 get_bbox로 바운딩박스 추출하여 visualize_both_bbox_on_image로 정답 박스와 비교 시각화하고 get_iou로 IoU 계산하는 과정을 거치면서 적절히 수행하였다.
 
 <img width="412" height="506" alt="image" src="https://github.com/user-attachments/assets/bc7b0784-1271-4a73-8183-c7a5f03125f8" />
