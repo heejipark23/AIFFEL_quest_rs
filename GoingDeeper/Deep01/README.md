@@ -20,8 +20,8 @@
 <img width="412" height="506" alt="image" src="https://github.com/user-attachments/assets/bc7b0784-1271-4a73-8183-c7a5f03125f8" />
 
        -(조건2) 분류근거를 설명 가능한 CAM 획득하였다
-         
-        <img width="502" height="150" alt="image" src="https://github.com/user-attachments/assets/059c8a3e-1c2f-4852-a233-9a946df88a4a" />
+
+        -> layer1~4별 활성화 패턴을 직접 관찰하고 기술하며 CAM이 실제로 객체의 주요 특징을 반영함을 확인한 것을 볼 수 있다.
 
 
        -(조건3) models.resnet50( )의 fc를 nn.Linear로 교체하는 과정을 거치는 등 이러한 과정을 통해 CAM을 얻기 위한 기본모델 구성과 학습이 잘 되어있다.
